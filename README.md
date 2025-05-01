@@ -1,4 +1,33 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">## 👋 Hi, I'm **Sathwik Naik**!
+
+I'm a **student** passionate about software development, web technologies, and **AI/ML**. I enjoy solving real-world problems through code and building interactive, user-friendly applications.
+
+### 🛠️ **Skills & Tools**  
+**Languages**: C, C++, Java, Python, TypeScript  
+**Frontend**: HTML, CSS, JavaScript  
+**Tools**: Git, Visual Studio Code, Node.js
+
+### 🌱 **Currently Learning**  
+Exploring **AI/ML** to build smarter systems and dive into cutting-edge technologies.
+
+### 🎯 **Goals for 2025**  
+- Contribute to open-source projects  
+- Build and deploy personal projects  
+- Master AI/ML concepts and tools
+
+### 💬 **Ask me about**  
+Frontend development, Python programming, or getting started with C/C++ and Java.
+
+
+
+### 📫 **How to Reach Me**  
+- GitHub: [@sathwiko7](https://github.com/sathwiko7)  
+- LinkedIn: [www.linkedin.com/in/sathwik-naik-6a3030319](#) 
+- Email: [sathwiknaikn636@gmail.com](#) 
+
+### 📌 **Fun fact**  
+I love turning creative ideas into functional web experiences!
+</h2>
 
 ###
 
@@ -7,11 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://www.google.com/imgres?q=coder%20gif&imgurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FbGgsc5mWoryfgKBx1u%2F200w.gif%3Fcid%3D6c09b952q8rwtj4zsasxfv2n8t43whudpqfdqhlzsxgn1e02%26ep%3Dv1_gifs_search%26rid%3D200w.gif%26ct%3Dg&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fhire-indian-programmers&docid=AVMxhtpKFIL_HM&tbnid=hmt8TbwGfq05jM&vet=12ahUKEwicxfaDhoONAxUya_UHHZ8EKLYQM3oECHgQAA..i&w=200&h=200&hcb=2&ved=2ahUKEwicxfaDhoONAxUya_UHHZ8EKLYQM3oECHgQAA"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
