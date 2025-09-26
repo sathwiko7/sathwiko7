@@ -1,35 +1,35 @@
-<h2 align="left">## 👋 Hi, I'm **Sathwik Naik**!
+<h2 align="left"> 👋 Hi, I'm Sathwik Naik
 
-I'm a **student** passionate about software development, web technologies, and **AI/ML**. I enjoy solving real-world problems through code and building interactive, user-friendly applications.
+I'm a student passionate about software development, web technologies, and AI/ML. I enjoy solving real-world problems through code and building interactive, user-friendly applications.
 
-### 🛠️ **Skills & Tools**  
-**Languages**: C, C++, Java, Python, TypeScript  
-**Frontend**: HTML, CSS, JavaScript  
-**Tools**: Git, Visual Studio Code, Node.js
+Skills & Tools 
+Languages: C, C++, Java, Python, TypeScript  
+Frontend: HTML, CSS, JavaScript  
+Tools: Git, Visual Studio Code, Node.js
 
-### 🌱 **Currently Learning**  
+🌱 **Currently Learning  
 Exploring **AI/ML** to build smarter systems and dive into cutting-edge technologies.
 
-### 🎯 **Goals for 2025**  
+🎯Goals for 2025
 - Contribute to open-source projects  
 - Build and deploy personal projects  
 - Master AI/ML concepts and tools
 
-### 💬 **Ask me about**  
+💬Ask me about 
 Frontend development, Python programming, or getting started with C/C++ and Java.
 
 
 
-### 📫 **How to Reach Me**  
+📫 How to Reach Me
 - GitHub: [@sathwiko7](https://github.com/sathwiko7)  
 - LinkedIn: [www.linkedin.com/in/sathwik-naik-6a3030319](#) 
 - Email: [sathwiknaikn636@gmail.com](#) 
 
-### 📌 **Fun fact**  
+📌Fun fact
 I love turning creative ideas into functional web experiences!
 </h2>
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
